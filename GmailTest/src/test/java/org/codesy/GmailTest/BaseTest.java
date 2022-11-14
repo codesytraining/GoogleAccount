@@ -32,6 +32,12 @@ public class BaseTest {
 		 * 
 		 */
 		
+		/*
+		 * 
+		 * Added by US Developer
+		 * On Day 2
+		 */
+		
 		
 		//Read PROPERTIES file
 		Properties prop = new Properties();
