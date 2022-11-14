@@ -26,6 +26,12 @@ public class BaseTest {
 	WebDriver driver;
 	
 	public WebDriver initializeDriver() throws IOException {
+		/*
+		 * Added By Indian Developer
+		 * On Day 2
+		 * 
+		 */
+		
 		
 		//Read PROPERTIES file
 		Properties prop = new Properties();
