@@ -58,7 +58,12 @@ public class BaseTest {
 		 * 
 		 */
 		
-		
+		/*
+		 *Added By Indian Developer
+		 *In master branch 
+		 * on 15 Nov
+		 * 
+		 */
 		
 		//Read PROPERTIES file
 		Properties prop = new Properties();
